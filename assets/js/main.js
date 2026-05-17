@@ -14,7 +14,7 @@ const escapeHtml = (value = "") =>
 const CANDIDATES = [
   { order:  1, name: "BATTIATO STEFANO", cv: "assets/docs/cv-grande-sicilia-01.pdf", casellario: "assets/docs/casellario-grande-sicilia-combinato.pdf" },
   { order:  2, name: "REALE FRANCESCA", cv: "assets/docs/cv-grande-sicilia-02.pdf", casellario: "assets/docs/casellario-grande-sicilia-combinato.pdf" },
-  { order:  3, name: "BATTISTONE MARIA TERESA", casellario: "assets/docs/casellario-grande-sicilia-combinato.pdf" },
+  { order:  3, name: "BATTISTONE MARIA TERESA", cv: "assets/docs/cv-grande-sicilia-03.pdf", casellario: "assets/docs/casellario-grande-sicilia-combinato.pdf" },
   { order:  4, name: "CALDERONE DANIELA", cv: "assets/docs/cv-grande-sicilia-04.pdf", casellario: "assets/docs/casellario-grande-sicilia-combinato.pdf" },
   { order:  5, name: "CARCÒ SALVATORE", cv: "assets/docs/cv-grande-sicilia-05.pdf", casellario: "assets/docs/casellario-grande-sicilia-combinato.pdf" },
   { order:  6, name: "COMMENDATORE MAURIZIO", cv: "assets/docs/cv-grande-sicilia-06.pdf", casellario: "assets/docs/casellario-grande-sicilia-combinato.pdf" },
